@@ -40,12 +40,13 @@ const customers = [
 {
 'id': 3,
 'image': 'https://placeimg.com/48/48/3',
-'name': '이순신',
+'name': '이순',
 'birthday': '961127',
 'gender': '남자',
 'job': '디자이너'
 }
 ]
+
 
 class App extends Component {
 render() {
