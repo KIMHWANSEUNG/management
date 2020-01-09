@@ -1,3 +1,5 @@
+
+본 프로젝트는 졸업작품을 위해 만들어졌음을 알립니다.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
